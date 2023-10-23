@@ -14,6 +14,13 @@ body {
     color: rgb(255, 255, 255);
 }
 
+.header {
+    background-color: rgb(48, 48, 48);
+    color: rgb(209, 208, 255);
+    text-align: center;
+    padding: 10px 0;
+}
+
 .box{
     display: flex;
     justify-content: space-between;
